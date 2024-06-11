@@ -78,6 +78,15 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Mac stuff
+.DS_Store
+
+# Heavy files
+*.h5
+*.sqlite
+*.csv
+*.gz
+
 # IPython
 profile_default/
 ipython_config.py
