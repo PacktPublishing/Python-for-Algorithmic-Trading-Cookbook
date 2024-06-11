@@ -86,6 +86,7 @@ target/
 *.sqlite
 *.csv
 *.gz
+*.pickle
 
 # IPython
 profile_default/
