@@ -50,11 +50,11 @@ This book equips the reader with practical Python code to design, backtest, and 
 
 ## About the Author
 
-Jason Strimpel is the founder of PyQuant News and co-founder of Quant Science. He teaches popular courses on using Python for quant finance, algorithmic trading, and market data analysis.
+Jason Strimpel is the founder of <a href="http://pyquantnews.com/">PyQuant News</a> and co-founder of <a href="https://www.tradeblotter.io/">Trade Blotter</a>. He teaches popular courses on using Python for quant finance, algorithmic trading, and market data analysis.
 
 Before his current pursuits, he traded professionally for a Chicago-based hedge fund, was a risk manager at JPMorgan, managed credit risk and market risk technology for an energy derivatives trading firm in London. In Singapore, he was the APAC Chief Information Officer for an agricultural trading firm and built the data science, analytics, and engineering team for a global metals trading firm.
 
-Jason holds undergraduate degrees in Finance and Economics and a Master's in Quantitative Finance from the Illinois Institute of Technology. His career has spanned across America, Europe, and Asia, shares his experience through the PyQuant Newsletter, social media, and teaches the popular course Getting Started With Python for Quant Finance.
+Jason holds undergraduate degrees in Finance and Economics and a Master's in Quantitative Finance from the Illinois Institute of Technology. His career has spanned across America, Europe, and Asia, shares his experience through the <a href="http://pyquantnews.com/subscribe-to-the-pyquant-newsletter">PyQuant Newsletter</a>, social media, and teaches the popular course<a href="https://gettingstartedwithpythonforquantfinance.com/"> Getting Started With Python for Quant Finance</a>.
 
 ## 1. Acquiring Free Financial Market Data with Cutting-Edge Python Libraries
 
