@@ -4,57 +4,57 @@
 
 This is the code repository for [Python for Algorithmic Trading Cookbook](https://www.packtpub.com/en-in/product/python-for-algorithmic-trading-cookbook-9781835084700), published by Packt.
 
-## Code and techniques to design, build, and deploy algorithmic trading strategies with Python
+**Recipes for designing, building, and deploying algorithmic trading strategies with Python**
 
-Leverage cutting-edge Python libraries to transform freely available financial market data into algorithmic trading strategies and deploy them into a live trading environment.
+## What is this book about?
+Discover how Python has made algorithmic trading accessible to non-professionals with unparalleled expertise and practical insights from Jason Strimpel, founder of PyQuant News and a seasoned professional with global experience in trading and risk management. This book guides you through from the basics of quantitative finance and data acquisition to advanced stages of backtesting and live trading.
+Detailed recipes will help you leverage the cutting-edge OpenBB SDK to gather freely available data for stocks, options, and futures, and build your own research environment using lightning-fast storage techniques like SQLite, HDF5, and ArcticDB. This book shows you how to use SciPy and statsmodels to identify alpha factors and hedge risk, and construct momentum and mean-reversion factors. You’ll optimize strategy parameters with walk-forward optimization using VectorBT and construct a production-ready backtest using Zipline Reloaded. Implementing all that you’ve learned, you’ll set up and deploy your algorithmic trading strategies in a live trading environment using the Interactive Brokers API, allowing you to stream tick-level data, submit orders, and retrieve portfolio details.
+By the end of this algorithmic trading book, you'll not only have grasped the essential concepts but also the practical skills needed to implement and execute sophisticated trading strategies using Python.
 
-## Overview
+This book covers the following exciting features:
+* Acquire and process freely available market data with the OpenBB Platform
+* Build a research environment and populate it with financial market data
+* Use machine learning to identify alpha factors and engineer them into signals
+* Use VectorBT to find strategy parameters using walk-forward optimization
+* Build production-ready backtests with Zipline Reloaded and evaluate factor performance
+* Set up the code framework to connect and send an order to Interactive Brokers
 
-Python for Algorithmic Trading Cookbook is packed with practical Python code recipes to leverage freely available market data to design, backtest, and deploy algorithmic trading strategies using Python. It's an essential resource for traders and developers that want to use Python to build and deploy algorithmic trading strategies.
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1835084702) today!
 
-### Key Features
+<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
-- Apply practical Python recipes for acquiring and storing free market data for market research
-- Design, backtest, and evaluate the performance of trading strategies using professional techniques
-- Deploy trading strategies built in Python to a live trading environment using API connectivity
+## Instructions and Navigations
+All of the code is organized into folders.
 
-### What You Will Learn
+The code will look like the following:
+```
+import datetime as dt
+import pandas as pd
+from openbb_terminal.sdk import openbb
 
-- Learn how to acquire and process freely available market data with OpenBB
-- Build a research environment and populate it with financial market data
-- Use machine learning to identify alpha factors and engineer them into signals
-- Use vectorbt to find strategy parameters using walk forward optimization
-- Build production-ready backtests with Zipline and evaluate factor performance
-- Set up the code framework to connect and send orders to Interactive Brokers
-- Deploy your trading strategies to a live trading environment with the IB API
+```
 
-## Table of Contents
+**Following is what you need for this book:**
+Python for Algorithmic Trading Cookbook equips traders, investors, and Python developers with code to design, backtest, and deploy algorithmic trading strategies. You should have experience investing in the stock market, knowledge of Python data structures, and a basic understanding of using Python libraries like pandas. This book is also ideal for individuals with Python experience who are already active in the market or are aspiring to be.
 
-1. Acquiring Free Financial Market Data with Cutting-Edge Python Libraries
-2. Analyzing and Transforming Financial Market Data with pandas
-3. Visualize Financial Market Data with Matplotlib, Plotly, and Streamlit
-4. Store Financial Market Data on Your Computer
-5. Build Alpha Factors for Stock Portfolios
-6. Vector-Based Backtesting with VectorBT
-7. Event-Based Backtesting Factor Portfolios with Zipline Reloaded
-8. Evaluate Factor Risk and Performance With AlphaLens
-9. Assess Backtest Risk and Performance Metrics with Pyfolio
-10. Set Up the Interactive Brokers Python API
-11. Manage Orders, Positions, and Portfolios with the IB API
-12. Deploy Strategies to a Live Environment
-13. Advanced Recipes for Market Data and Strategy Management
+With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
 
-## Audience
+### Software and Hardware List
 
-The Python for Algorithmic Trading Cookbook equips traders, investors, and Python developers with code to design, backtest, and deploy algorithmic trading strategies. To learn from this book, you should have experience investing in the stock market, knowledge of Python data structures, and basic experience using Python libraries like pandas. This book is excellent for people with Python experience that are already active in the market or aspiring to be.
+| Chapter  | Software required                                                                    | OS required                        |
+| -------- | -------------------------------------------------------------------------------------| -----------------------------------|
+|  		1-13 | Python version 3.10   							                                            			  | Windows, Mac OS X, and Linux (Any) |
+|      1-13|   	PostgreSQL																		  |                                    | Windows, Mac OS X, and Linux (Any)
+|  		1-13 |	OpenBB Platform version 4+ 					                                            			  | Windows, Mac OS X, and Linux (Any) |
+|  		1-13 |pandas version 2+					                                            			  | Windows, Mac OS X, and Linux (Any) |
 
-## Approach
+### Related products <Other books you may enjoy>
+* Developing High-Frequency Trading Systems [[Packt]](https://www.packtpub.com/product/hands-on-image-generation-with-tensorflow/9781838826789) [[Amazon]](https://www.amazon.in/Developing-High-Frequency-Trading-Systems/dp/1803242817)
 
-This book equips the reader with practical Python code to design, backtest, and automate effective algorithmic trading strategies. With example code using cutting-edge Python tools, readers can incorporate quantitative methods like alpha factor engineering, statistics, and machine learning to control risk more effectively and improve profitability. This book gives the reader the building blocks to add a systematic edge to their trading.
+* TensorFlow 2.0 Computer Vision Cookbook [[Packt]](https://www.packtpub.com/product/tensorflow-20-computer-vision-cookbook/9781838829131) [[Amazon]](https://www.amazon.in/TensorFlow-2-0-Computer-Vision-Cookbook/dp/183882913X)
 
-## About the Author
-
-Jason Strimpel is the founder of <a href="http://pyquantnews.com/">PyQuant News</a> and co-founder of <a href="https://www.tradeblotter.io/">Trade Blotter</a>. He teaches popular courses on using Python for quant finance, algorithmic trading, and market data analysis.
+## Get to Know the Author
+**Jason Strimpel** is the founder of <a href="http://pyquantnews.com/">PyQuant News</a> and co-founder of <a href="https://www.tradeblotter.io/">Trade Blotter</a>. He teaches popular courses on using Python for quant finance, algorithmic trading, and market data analysis.
 
 Before his current pursuits, he traded professionally for a Chicago-based hedge fund, was a risk manager at JPMorgan, managed credit risk and market risk technology for an energy derivatives trading firm in London. In Singapore, he was the APAC Chief Information Officer for an agricultural trading firm and built the data science, analytics, and engineering team for a global metals trading firm.
 
