@@ -43,7 +43,7 @@ With the following software and hardware list you can run all code files present
 | Chapter  | Software required                                                                    | OS required                        |
 | -------- | -------------------------------------------------------------------------------------| -----------------------------------|
 |  		1-13 | Python version 3.10   							                                            			  | Windows, Mac OS X, and Linux (Any) |
-|      1-13|   	PostgreSQL																		  |                                    | Windows, Mac OS X, and Linux (Any)|
+|      1-13|   	PostgreSQL																		                                  | Windows, Mac OS X, and Linux (Any)|
 |  		1-13 |	OpenBB Platform version 4+ 					                                            			  | Windows, Mac OS X, and Linux (Any) |
 |  		1-13 |pandas version 2+					                                            			  | Windows, Mac OS X, and Linux (Any) |
 
