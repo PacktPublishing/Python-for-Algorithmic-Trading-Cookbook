@@ -31,7 +31,6 @@ The code will look like the following:
 import datetime as dt
 import pandas as pd
 from openbb_terminal.sdk import openbb
-
 ```
 
 **Following is what you need for this book:**
