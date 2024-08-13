@@ -7,9 +7,7 @@ This is the code repository for [Python for Algorithmic Trading Cookbook](https:
 **Recipes for designing, building, and deploying algorithmic trading strategies with Python**
 
 ## What is this book about?
-Discover how Python has made algorithmic trading accessible to non-professionals with unparalleled expertise and practical insights from Jason Strimpel, founder of PyQuant News and a seasoned professional with global experience in trading and risk management. This book guides you through from the basics of quantitative finance and data acquisition to advanced stages of backtesting and live trading.
-Detailed recipes will help you leverage the cutting-edge OpenBB SDK to gather freely available data for stocks, options, and futures, and build your own research environment using lightning-fast storage techniques like SQLite, HDF5, and ArcticDB. This book shows you how to use SciPy and statsmodels to identify alpha factors and hedge risk, and construct momentum and mean-reversion factors. You’ll optimize strategy parameters with walk-forward optimization using VectorBT and construct a production-ready backtest using Zipline Reloaded. Implementing all that you’ve learned, you’ll set up and deploy your algorithmic trading strategies in a live trading environment using the Interactive Brokers API, allowing you to stream tick-level data, submit orders, and retrieve portfolio details.
-By the end of this algorithmic trading book, you'll not only have grasped the essential concepts but also the practical skills needed to implement and execute sophisticated trading strategies using Python.
+Explore Python code recipes to use market data for designing and deploying algorithmic trading strategies. By following step-by-step instructions, you’ll be proficient in trading concepts and have hands-on experience in a live trading environment.
 
 This book covers the following exciting features:
 * Acquire and process freely available market data with the OpenBB Platform
