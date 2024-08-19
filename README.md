@@ -2,7 +2,7 @@
 
 <a href="<https://www.packtpub.com/en-in/product/python-for-algorithmic-trading-cookbook-9781835084700"><img src="https://content.packt.com/_/image/xxlarge/B21323/cover_image_large.jpg" alt="Python for Algorithmic Trading Cookbook" height="256px" align="right"></a>
 
-This is the code repository for [Python for Algorithmic Trading Cookbook](https://www.packtpub.com/en-in/product/python-for-algorithmic-trading-cookbook-9781835084700), published by Packt.
+This is the code repository for [Python for Algorithmic Trading Cookbook](https://amzn.to/4706Exu), published by Packt.
 
 **Recipes for designing, building, and deploying algorithmic trading strategies with Python**
 
@@ -17,7 +17,7 @@ This book covers the following exciting features:
 * Build production-ready backtests with Zipline Reloaded and evaluate factor performance
 * Set up the code framework to connect and send an order to Interactive Brokers
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1835084702) today!
+If you feel this book is for you, get your [copy](https://amzn.to/4706Exu) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
